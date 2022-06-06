@@ -1,0 +1,7 @@
+C:\Users\AERO COOL\Documents\GitHub\EscrituraByte\Prog Escritura Byte\bin\Debug\Prog Escritura Byte.exe.config
+C:\Users\AERO COOL\Documents\GitHub\EscrituraByte\Prog Escritura Byte\bin\Debug\Prog Escritura Byte.exe
+C:\Users\AERO COOL\Documents\GitHub\EscrituraByte\Prog Escritura Byte\bin\Debug\Prog Escritura Byte.pdb
+C:\Users\AERO COOL\Documents\GitHub\EscrituraByte\Prog Escritura Byte\obj\Debug\Prog Escritura Byte.csproj.AssemblyReference.cache
+C:\Users\AERO COOL\Documents\GitHub\EscrituraByte\Prog Escritura Byte\obj\Debug\Prog Escritura Byte.csproj.CoreCompileInputs.cache
+C:\Users\AERO COOL\Documents\GitHub\EscrituraByte\Prog Escritura Byte\obj\Debug\Prog Escritura Byte.exe
+C:\Users\AERO COOL\Documents\GitHub\EscrituraByte\Prog Escritura Byte\obj\Debug\Prog Escritura Byte.pdb
